@@ -1,0 +1,112 @@
+.All{
+    width: 100%;
+    height: 200vh;
+    background-color: white;
+}
+.TitleVictoria{
+font-size: 50px;
+}
+
+.Button2Class{
+    display: flex;
+    width: 20%;
+    height: 20%;
+    background-color: white;
+    justify-content: space-around;
+}
+.ButtonTittle{
+    background-color: blueviolet;
+    width: 35%;
+    height: 80%;
+    
+}
+.ButtonTittle2{
+    background-color: white;
+    width: 35%;
+    height: 80%;
+    border-color: blue;
+}
+/*Yoga*/
+.Yoga{
+    display: flex;
+    width: 100%;
+    height: 27%;
+    background-color: white;
+    justify-content: center;
+}
+.InYoga{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+}
+.InYoga2{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+}
+.YogaPng{
+    width: 100%;
+    height: 100%;
+}
+.ButtonIoga{
+    background-color: blueviolet;
+    width: 35%;
+    height: 9%;
+    border-radius: 11px;
+}
+/*Weather*/
+.weatherApp{
+    display: flex;
+    width: 100%;
+    height: 25%;
+    background-color: white;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.WeatherText{
+    width: 30%;
+    height: 100%;
+    background-color: white;
+}
+.WeatherGallery{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+}
+.WeatherGalleryClass{
+    width: 100%;
+    height: 100%;
+}
+
+/*Ice Cream*/
+.IceCream{
+    display: flex;
+    width: 100%;
+    height: 25%;
+    background-color: white;
+    justify-content: space-evenly;
+}
+.IceCreamGallery{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+}
+.IceCreamText{
+    width: 30%;
+    height: 100%;
+    background-color: white;
+}
+.IceCreamGallery2{
+    width: 100%;
+    height: 100%;
+}
+/*title*/
+.BigTitle{
+    display: flex;
+    width: 100%;
+    height: 20%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
